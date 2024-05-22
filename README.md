@@ -4,7 +4,7 @@
 - 📫 [Gmail](ucs1055@gmail.com) [Linkedin](https://www.linkedin.com/in/umesh-chandra-srirangam/)
 - 😄 He/Him
 - ⚡ Fun fact: I'm a Singer too....
-- I'm a Reserach Student at IIIT Sri City , presently working on Federated Learning Techniques for Medical Image Analysis.
+- 🔬 I'm a Reserach Student at IIIT Sri City , presently working on Federated Learning Techniques for Medical Image Analysis.
 
 <!---
 srirangamuc/srirangamuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
