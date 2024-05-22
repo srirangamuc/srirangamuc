@@ -23,7 +23,7 @@
 ## 📫 Let's Connect:
 - 📧 [Gmail](mailto:ucs1055@gmail.com) or 
 - 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle) <!-- Add your Twitter handle here if you have one -->
+- 🐦 [Twitter](https://twitter.com/chandra_1055uc) <!-- Add your Twitter handle here if you have one -->
 - 🌐 [Website/Portfolio](https://yourwebsite.com) <!-- Add your website if you have one -->
 
 ---
@@ -36,6 +36,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=github)
 
 ---
 
