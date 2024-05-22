@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Srirangam Umesh Chandra
+
+                                                                    # Srirangam Umesh Chandra
+
 - 👀 I’m interested in Machine Learning
 - 🌱 Bachelor's at Indian Institute of Information Technology Sri City
 - 📫 [Gmail](ucs1055@gmail.com) [Linkedin](https://www.linkedin.com/in/umesh-chandra-srirangam/)
