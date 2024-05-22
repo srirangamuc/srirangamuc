@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Let's Connect:
-- 📧 [Gmail](mailto:ucs1055@gmail.com)
+- 📧 [Gmail](mailto:ucs1055@gmail.com) or 
 - 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
 - 🐦 [Twitter](https://twitter.com/your_twitter_handle) <!-- Add your Twitter handle here if you have one -->
 - 🌐 [Website/Portfolio](https://yourwebsite.com) <!-- Add your website if you have one -->
