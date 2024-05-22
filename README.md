@@ -36,7 +36,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=github)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv)
 
 ---
 
