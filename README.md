@@ -15,8 +15,7 @@
 
 ## 🌱 What I'm Currently Working On:
 - 🚀 Exploring advanced Machine Learning algorithms
-- 🏥 Developing cutting-edge Federated Learning models for Medical Image Analysis
-- 📊 Contributing to open-source projects and collaborating with the ML community
+- 🏥 Studying about cutting-edge Federated Learning models for Medical Image Analysis
 
 ---
 
