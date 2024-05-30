@@ -45,4 +45,6 @@
 
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc) <!-- Replace with your GitHub username -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc)
+
+<p align="CENTER"><img src='https://readme-jokes.vercel.app/api' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
