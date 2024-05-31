@@ -22,9 +22,8 @@
 ## 📫 Let's Connect:
 - 📧 [Gmail](mailto:ucs1055@gmail.com) or 
 - 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
-- 🐦 [Twitter](https://twitter.com/chandra_1055uc) <!-- Add your Twitter handle here if you have one -->
-- 🌐 [Website/Portfolio](https://yourwebsite.com) <!-- Add your website if you have one -->
-
+- 🐦 [Twitter](https://twitter.com/chandra_1055uc) 
+- 🌐 [Website/Portfolio](https://srirangamuc.github.io/blog/)
 ---
 
 ## 🔧 Technologies & Tools:
