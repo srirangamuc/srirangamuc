@@ -23,7 +23,7 @@
 - 📧 [Gmail](mailto:ucs1055@gmail.com) or 
 - 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
 - 🐦 [Twitter](https://twitter.com/chandra_1055uc) 
-- 🌐 [Website/Portfolio](https://srirangamuc.github.io/blog/)
+- 🌐 [Website/Portfolio](https://srirangamucblog-f062y2tcb-srirangamucs-projects.vercel.app/)
 ---
 
 ## 🔧 Technologies & Tools:
