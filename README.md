@@ -45,7 +45,7 @@
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shree2604&show_icons=true&locale=en&layout=compact" alt="shree2604" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="shree2604" /></p>
 
 
 ## Wanna Here Some jokes?
