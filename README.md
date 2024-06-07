@@ -40,6 +40,7 @@
 
 ## 🎵 Music & More:
 - 🎧 Favorite Genres: Pop,Indian
+- <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ---
 
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
