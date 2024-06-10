@@ -36,9 +36,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv)
 
+<h5 align="center">Tool Usage</h5>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
 ---
 
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="shree2604" /></p>
