@@ -38,16 +38,7 @@
 
 ---
 
-## 🎵 Music & More:
-- 🎧 Favorite Genres: Pop,Indian
-- <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
----
-
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="shree2604" /></p>
-
-
-## Wanna Here Some jokes?
-<p align="CENTER"><img src='https://readme-jokes.vercel.app/api' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
