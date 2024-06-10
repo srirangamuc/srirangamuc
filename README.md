@@ -1,4 +1,4 @@
-# Srirangam Umesh Chandra
+<h1 align="center">Srirangam Umesh Chandra</h1>
 
 ### 👋 Hello there! Welcome to my GitHub profile!
 
