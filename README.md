@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv)
 
-<h5 align="center">Tool Usage</h5>
+<h2 align="center">Tool Usage</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
 ---
 
