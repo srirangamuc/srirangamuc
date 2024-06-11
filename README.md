@@ -20,10 +20,12 @@
 ---
 
 ## 📫 Let's Connect:
-- 📧 [Gmail](mailto:ucs1055@gmail.com) or 
+- 📧 [Gmail](mailto:ucs1055@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
 - 🐦 [Twitter](https://twitter.com/chandra_1055uc) 
 - 🌐 [Website/Portfolio](https://srirangamucblog-f062y2tcb-srirangamucs-projects.vercel.app/)
+- 📜[Medium](https://medium.com/@uc3932)
+- 
 ---
 
 ## 🔧 Technologies & Tools:
