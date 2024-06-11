@@ -25,7 +25,6 @@
 - 🐦 [Twitter](https://twitter.com/chandra_1055uc) 
 - 🌐 [Website/Portfolio](https://srirangamucblog-f062y2tcb-srirangamucs-projects.vercel.app/)
 - 📜[Medium](https://medium.com/@uc3932)
-- 
 ---
 
 ## 🔧 Technologies & Tools:
@@ -38,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv)
 
-<h2 align="center">Tool Usage</h2>
+<h2>Tool Usage</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
 ---
 
