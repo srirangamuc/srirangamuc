@@ -9,7 +9,7 @@
 - 🔬 **Research**: Currently a Research Student at IIIT Sri City, specializing in Federated Learning Techniques for Medical Image Analysis
 - 👀 **Interests**: Machine Learning, Artificial Intelligence, Data Science, and more!
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I'm also a singer! 🎤
+- ⚡ **Fun Fact**: I'm also a Carnatic singer! 🎤
 
 ---
 
