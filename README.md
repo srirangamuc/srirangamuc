@@ -40,7 +40,7 @@
 <h2>Tool Usage</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
 ---
-<h2>Leetcode Stats</h2>
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/srirangamuc?theme=nord&font=baloo&extension=null)
 
 ---
