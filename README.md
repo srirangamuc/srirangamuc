@@ -39,6 +39,7 @@
 
 ## Tool Usage
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=srirangam&show_icons=true&theme=radical)
 
 ## Leetcode Statistics
 ---
