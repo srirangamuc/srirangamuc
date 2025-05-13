@@ -45,7 +45,7 @@
 
 ## Leetcode Statistics
 ---
-![LeetCode Stats](https://leetcode.card.workers.dev/srirangamuc?theme=nord&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)
 
 ---
 Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
