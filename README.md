@@ -1,52 +1,81 @@
-<h1 align="center">Srirangam Umesh Chandra</h1>
+<h1 align="center">👋 Hey there, I'm Srirangam Umesh Chandra</h1>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
-<h3 align="center">👋 Hello there! Welcome to my GitHub profile!</h3>
-
----
-
-## About Me:
-- 🎓 **Education**: Bachelor's at [Indian Institute of Information Technology Sri City](https://www.iiits.ac.in)
-- 🔬 **Research**: Currently a Research Student at IIIT Sri City, specializing in Federated Learning Techniques for Medical Image Analysis
-- 👀 **Interests**: Machine Learning, Artificial Intelligence, Data Science, Real-Time Data and more!
-- ⚡ **Fun Fact**: I'm also a Carnatic singer! 🎤
-
----
-
-## 🌱 What I'm Currently Working On:
-- 🚀 Exploring advanced Machine Learning algorithms
-- 🏥 Studying about cutting-edge Federated Learning models for Medical Image Analysis
+<p align="center">
+  <a href="mailto:ucs1055@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umesh-chandra-srirangam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/chandra_1055uc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://srirangamuc.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
+  <a href="https://medium.com/@uc3932"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📫 Let's Connect:
-- 📧 [Gmail](mailto:ucs1055@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/umesh-chandra-srirangam/)
-- 🐦 [Twitter](https://twitter.com/chandra_1055uc) 
-- 🌐 [Website/Portfolio](https://srirangamuc.github.io/portfolio)
-- 📜[Medium](https://medium.com/@uc3932)
----
+## 👨‍💻 About Me
 
-## 🔧 Technologies & Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv)
-
-## Tool Usage
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srirangamuc&show_icons=true&locale=en&layout=compact" alt="srirangamuc" /></p>
+- 🎓 **B.Tech** @ [IIIT Sri City](https://www.iiits.ac.in)
+- 🔬 **Research Student**, working on Federated Learning for Medical Image Analysis
+- 💡 Passionate about **AI**, **ML**, **Data Science**, and **Privacy-preserving ML**
+- 🎤 Fun fact: I’m also a trained **Carnatic singer**
 
 ---
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=srirangam&show_icons=true&theme=radical)
 
-## Leetcode Statistics
+## 🚀 What I'm Working On
+
+- 📊 Advanced Federated Learning algorithms for medical VQA
+- 🧠 Applying Transformer architectures in visual understanding
+- ✍️ Writing tech blogs on **AI Research** and **ML tools**
+
 ---
-![LeetCode Stats](https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)
+
+## 🛠️ Skills & Tools
+
+### 🤖 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### 🧠 Research & Experimentation
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Dev & Infra Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-Thanks for stopping by! Feel free to reach out and connect. Let's make something awesome together!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srirangamuc&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null" />
+</p>
+
+---
+
+## 🌐 Visitor Badge
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc" alt="visitor badge"/>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! Let's connect and create something amazing. 🚀
+</p>
