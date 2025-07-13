@@ -15,7 +15,7 @@
 
 - 🎓 **B.Tech** @ [IIIT Sri City](https://www.iiits.ac.in)
 - 🔬 **Research Student**, working on Federated Learning for Medical Image Analysis
-- 💡 Passionate about **AI**, **ML**, **Data Science**, and **Privacy-preserving ML**
+- 💡 Passionate about **AI**, **ML**, **Data Science**, and **Backend Engineering**
 - 🎤 Fun fact: I’m also a trained **Carnatic singer**
 
 ---
