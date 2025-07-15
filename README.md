@@ -7,6 +7,7 @@
   <a href="https://twitter.com/chandra_1055uc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://srirangamuc.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
   <a href="https://medium.com/@uc3932"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://huggingface.co/srirangamuc"><img src="https://img.shields.io/badge/Huggingface-000000?style=flat&logo=medium"/></a>
 </p>
 
 ---
