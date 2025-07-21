@@ -2,6 +2,9 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+Engineer+in+training;Open+Source+Contributor;Backend+Developer;Researcher+%26+AI+Explorer&center=true&width=500&height=50" alt="Typing SVG" />
+</p>
+<p align="center">
   <a href="mailto:dev.srirangam.uc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/umesh-chandra-srirangam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/chandra_1055uc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
