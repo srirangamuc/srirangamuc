@@ -20,47 +20,37 @@
 
 ---
 
-## 👨‍💻 About Me
+$ echo "👨‍💻 About Me"
+# B.Tech @ IIIT Sri City
+# Research Student in Federated Learning for Medical Image Analysis
+# Passionate about AI, ML, Data Science & Backend Engineering
+# Fun fact: I'm also a record-holding Carnatic singer 🎤
 
-- 🎓 **B.Tech** @ [IIIT Sri City](https://www.iiits.ac.in)
-- 🔬 **Research Student**, working on Federated Learning for Medical Image Analysis
-- 💡 Passionate about **AI**, **ML**, **Data Science**, and **Backend Engineering**
-- 🎤 Fun fact: I’m also a record-holding **Carnatic singer**
+$ echo "🚀 What I'm Working On"
+# Developing advanced Federated Learning algorithms for medical VQA
+# Exploring Transformer models for visual understanding
+# Writing blogs on AI Research and ML Tools
 
----
+$ echo "🛠️ Skills & Tools"
 
-## 🚀 What I'm Working On
+$ cat languages.txt
+> Python        🐍
+> Java          ☕
+> JavaScript    💛
+> Go            🐹
 
-- 📊 Advanced Federated Learning algorithms for medical VQA
-- 🧠 Applying Transformer architectures in visual understanding
-- ✍️ Writing tech blogs on **AI Research** and **ML tools**
+$ cat ml_stack.txt
+> PyTorch       🔥
+> Scikit-Learn  📊
+> HuggingFace   🤗
+> Jupyter       📓
 
----
-
-## 🛠️ Skills & Tools
-
-### 🗒️Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-### 🤖 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### 🧠 Research & Experimentation
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### 🛠️ Dev & Infra Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+$ cat dev_tools.txt
+> Git           🧬
+> GitHub        🐙
+> Docker        🐳
+> Linux         🐧
+> VSCode        💻
 
 ---
 
