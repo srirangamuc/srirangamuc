@@ -15,43 +15,45 @@
   <a href="https://srirangamuc.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
   <a href="https://medium.com/@uc3932"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://huggingface.co/srirangamuc"><img src="https://img.shields.io/badge/HuggingFace-%23000000?style=flat&logo=huggingface" alt="HuggingFace"></a>
-
 </p>
 
 ---
 
-$ echo "👨‍💻 About Me"
-# B.Tech @ IIIT Sri City
-# Research Student in Federated Learning for Medical Image Analysis
-# Passionate about AI, ML, Data Science & Backend Engineering
-# Fun fact: I'm also a record-holding Carnatic singer 🎤
+```bash
+$ whoami
+👨‍💻 Srirangam Umesh Chandra
 
-$ echo "🚀 What I'm Working On"
-# Developing advanced Federated Learning algorithms for medical VQA
-# Exploring Transformer models for visual understanding
-# Writing blogs on AI Research and ML Tools
+$ echo "About Me"
+> 🎓 B.Tech @ IIIT Sri City
+> 🔬 Research in Federated Learning for Medical Imaging
+> 💡 AI | ML | Data Science | Backend Engineering
+> 🎤 Record-holding Carnatic vocalist 🎶
 
-$ echo "🛠️ Skills & Tools"
+$ echo "What I'm Working On"
+> 🚀 Federated Learning algorithms for Medical VQA
+> 🧠 Transformer models in Visual Understanding
+> ✍️ Tech Blogs on AI & ML Tools
 
-$ cat languages.txt
-> Python        🐍
-> Java          ☕
-> JavaScript    💛
-> Go            🐹
+$ echo "Skills & Tools"
+$ cat skills/languages.txt
+> Python 🐍
+> Java ☕
+> JavaScript 💛
+> Go 🐹
 
-$ cat ml_stack.txt
-> PyTorch       🔥
-> Scikit-Learn  📊
-> HuggingFace   🤗
-> Jupyter       📓
+$ cat skills/ml_stack.txt
+> PyTorch 🔥
+> Scikit-Learn 📊
+> HuggingFace 🤗
+> Jupyter 📓
 
-$ cat dev_tools.txt
-> Git           🧬
-> GitHub        🐙
-> Docker        🐳
-> Linux         🐧
-> VSCode        💻
-
+$ cat skills/dev_tools.txt
+> Git 🧬
+> GitHub 🐙
+> Docker 🐳
+> Linux 🐧
+> VSCode 💻
+```
 ---
 
 ## 📈 GitHub Stats
