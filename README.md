@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/srirangamuc/srirangamuc/blob/main/banner.png" alt="Banner" />
-</p>
-
 <h1 align="center">👋 Hey there</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
