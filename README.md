@@ -60,11 +60,7 @@ $ cat skills/dev_tools.txt
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srirangamuc&show_icons=true&theme=radical" height="180"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&layout=compact&theme=radical" height="180"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srirangamuc&theme=github_dark" />
 
 ---
 
