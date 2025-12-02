@@ -14,7 +14,6 @@
   <a href="https://huggingface.co/srirangamuc"><img src="https://img.shields.io/badge/HuggingFace-%23000000?style=flat&logo=huggingface" alt="HuggingFace"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srirangamuc&theme=onedark)](https://github-profile-trophy.vercel.app/?username=srirangamuc&theme=onedark)
 ---
 <table>
 <tr>
