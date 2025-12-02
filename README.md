@@ -16,6 +16,28 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=srirangamuc&theme=onedark)](https://github-profile-trophy.vercel.app/?username=srirangamuc&theme=onedark)
 ---
+<table>
+<tr>
+<td>
+
+<pre>
+  _   _      _ _       
+ | | | | ___| | | ___  
+ | |_| |/ _ \ | |/ _ \ 
+ |  _  |  __/ | | (_) |
+ |_| |_|\___|_|_|\___/ 
+  ---------------------
+      .--.
+     |o_o |
+     |:_/ |
+    //   \ \
+   (|     | )
+  /'\_   _/`\
+  \___)=(___/
+</pre>
+
+</td>
+<td>
 
 ```bash
 $ whoami
@@ -52,7 +74,7 @@ $ cat skills/dev_tools.txt
 > Linux 🐧
 > VSCode 💻
 ```
-
+</td> </tr> </table>
 ---
 
 ## 📈 GitHub Stats
