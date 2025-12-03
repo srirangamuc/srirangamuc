@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech @ **IIIT Sri City**  
-- 🔬 Research in **Federated Learning for Medical Imaging**  
 - 💡 Passion for **AI, ML, Backend Engineering & Research**  
 - 🎤 **Record-holding Carnatic vocalist**  
 
@@ -50,37 +49,47 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### **Development Tools**
+
+### **Ops / DevOps / MLOps**
 <p>
+  <!-- Core DevOps -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+  <!-- Containers & Orchestration -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <!-- Cloud Providers -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- MLOps Pipeline Tools -->
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+
+  <!-- OS / Editors -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
-
-## 📈 GitHub Stats
+## Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srirangamuc&theme=github_dark" />
 
 ---
+## CP Stats
 
-## 🧮 LeetCode Stats
-
-<p align="center">
+<p align="left">
   <img src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null" />
 </p>
-
----
-
-## 🌐 Visitor Badge
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srirangamuc.srirangamuc" />
+<p align="right">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs)" />
 </p>
-
 ---
 
 <p align="center">
