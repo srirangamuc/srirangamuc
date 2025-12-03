@@ -14,24 +14,13 @@
 </p>
 
 ---
+## About Me
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech @ **IIIT Sri City**  
-- 💡 Passion for **AI, ML, Backend Engineering & Research**  
-- 🎤 **Record-holding Carnatic vocalist**  
+I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machine Learning, Backend Engineering, and Research**. Beyond tech, I'm also a **record-holding Carnatic vocalist**, blending analytical thinking with artistic expression.
 
 ---
 
-## 🚀 What I'm Working On
-
-- Federated Learning algorithms for **Medical VQA**  
-- Transformer-based **Vision Understanding**  
-- Technical articles on **AI, ML, and engineering workflows**  
-
----
-
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 
 ### **Languages**
 <p>
@@ -84,12 +73,16 @@
 ---
 ## CP Stats
 
-<p align="left">
-  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)" />
-</p>
-<p align="right">
-  <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="LeetCode Stats" src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo" />
+    </td>
+    <td align="center">
+      <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs" />
+    </td>
+  </tr>
+</table>
 ---
 
 <p align="center">
