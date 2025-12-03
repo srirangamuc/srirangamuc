@@ -85,10 +85,10 @@
 ## CP Stats
 
 <p align="left">
-  ![Leetcode](https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)
+  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)" />
 </p>
 <p align="right">
-  ![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=xinirs)
+  <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs" />
 </p>
 ---
 
