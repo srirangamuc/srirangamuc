@@ -50,7 +50,7 @@
 </p>
 
 
-### **Ops / DevOps / MLOps**
+### **Ops**
 <p>
   <!-- Core DevOps -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -85,10 +85,10 @@
 ## CP Stats
 
 <p align="left">
-  <img src="https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null" />
+  ![Leetcode](https://leetcode.card.workers.dev/xinirs?theme=nord&font=baloo&extension=null)
 </p>
 <p align="right">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs)" />
+  ![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=xinirs)
 </p>
 ---
 
