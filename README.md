@@ -13,12 +13,10 @@
   <a href="https://huggingface.co/srirangamuc"><img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
 
----
 ## About Me
 
 I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machine Learning, Backend Engineering, and Research**. Beyond tech, I'm also a **record-holding Carnatic vocalist**, blending analytical thinking with artistic expression.
 
----
 
 ## Skills & Tools  
 
@@ -65,12 +63,11 @@ I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machin
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
 ## Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srirangamuc&theme=github_dark" />
 
----
+
 ## CP Stats
 
 <table>
@@ -83,7 +80,6 @@ I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machin
     </td>
   </tr>
 </table>
----
 
 <p align="center">
   Thanks for stopping by! Let's connect and build something awesome 🚀
