@@ -63,10 +63,6 @@ I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machin
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## Contributions
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srirangamuc&theme=github_dark" />
-
 
 ## CP Stats
 
