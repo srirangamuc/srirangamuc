@@ -15,7 +15,8 @@
 
 ## About Me
 
-I'm a B.Tech student at **IIIT Sri City** with a strong interest in **AI, Machine Learning, Backend Engineering, and Research**. Beyond tech, I'm also a **record-holding Carnatic vocalist**, blending analytical thinking with artistic expression.
+CS Grad at IIIT Sri City.
+Fun Fact: I sing too...
 
 
 ## Skills & Tools  
