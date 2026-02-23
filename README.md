@@ -15,24 +15,28 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **CS Grad** at IIIT Sri City.
-- 🛠️ Deeply interested in **LLM Orchestration** and **Scalable Backend Systems**.
-- 🎤 Fun Fact: I’m likely singing while debugging your code.
+## About Me
+- **CS Grad** at IIIT Sri City.
+-  Deeply interested in **LLM Orchestration** and **Scalable Backend Systems**.
+-  Fun Fact: I’m likely singing while debugging your code.
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
-### **💻 Languages & Core**
+### **Languages & Core**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### **🤖 Agentic AI & LLMs**
+### ** Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+</p>
+
+### **Agentic AI & LLMs**
 <p>
   <img src="https://img.shields.io/badge/LangGraph-2D333B?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -40,7 +44,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### **🗄️ Vector Databases & Storage**
+### **Vector Databases & Storage**
 <p>
   <img src="https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chroma&logoColor=white"/>
@@ -48,7 +52,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### **🧠 Machine Learning Stack**
+### **Machine Learning Stack**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -56,7 +60,7 @@
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
 </p>
 
-### **⚙️ Ops & Infrastructure**
+### **Ops & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -66,7 +70,7 @@
 
 ---
 
-## 📈 Activity & Stats
+## Activity & Stats
 
 <div align="center">
   <picture>
