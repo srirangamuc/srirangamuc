@@ -85,7 +85,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img alt="LeetCode Stats" src="![](https://leetcard.jacoblin.cool/xinirs?ext=contest)" width="400px"/>
+      <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/xinirs?ext=contest" width="400px"/>
     </td>
     <td align="center">
       <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=xinirs" width="400px" />
