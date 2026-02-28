@@ -103,10 +103,11 @@
   </picture>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=srirangamuc&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=srirangamuc&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 <br/>
 
 <table align="center">
@@ -121,5 +122,5 @@
 </table>
 
 <p align="center">
-  <b>Thanks for stopping by! Let's connect and build something awesome.</b>
+  karmaṇyevādhikāraste mā phaleṣu kadācana .\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||
 </p>
