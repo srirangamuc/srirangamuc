@@ -28,9 +28,9 @@
 ---
 
 ## About Me
-- **CS Grad** at IIIT Sri City.
--  Deeply interested in **LLM Orchestration** and **Scalable Backend Systems**.
--  Fun Fact: I’m likely singing while debugging your code.
+- No bluff only brain kinda nerd
+- Ambivert
+- Stats speak better than small brains
 
 ---
 
@@ -102,6 +102,10 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/srirangamuc/srirangamuc/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=srirangamuc&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br/>
 
