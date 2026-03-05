@@ -28,9 +28,9 @@
 ---
 
 ## About Me
-- No bluff only brain kinda nerd
-- Ambivert
-- Stats speak better than small brains
+- B.Tech (Hons.) in Computer Science @ IIIT Sri City
+- Heavily Into Backend Engineering, System Design and Data
+- Restless ambivert (If that is a term)
 
 ---
 
