@@ -28,7 +28,7 @@
 ---
 
 ## About Me
-- B.Tech (Hons.) in Computer Science @ IIIT Sri City
+- B.Tech in Computer Science @ IIIT Sri City
 - Heavily Into Backend Engineering, System Design and Data
 - Restless ambivert (If that is a term)
 
