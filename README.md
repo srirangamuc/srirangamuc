@@ -1,5 +1,4 @@
 <h3 align="center">Hello, I'm Srirangam Umesh Chandra</h3>
----
 
 ## About Me
 - B.Tech in Computer Science @ IIIT Sri City — CGPA: 8.6/10
