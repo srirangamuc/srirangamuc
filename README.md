@@ -19,12 +19,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srirangamuc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=srirangamuc&theme=dracula&hide_border=false)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srirangamuc&layout=pie)]()
-
 </div>
 
 <table align="center">
