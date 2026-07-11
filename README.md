@@ -1,13 +1,11 @@
-<h3 align="center">Hello, I'm Srirangam Umesh Chandra</h3>
-
 ## About Me
+<h3>Hello, I'm Srirangam Umesh Chandra</h3>
 - B.Tech in Computer Science @ IIIT Sri City — CGPA: 8.6/10
 - Geeky about AI and Stuff (Not a bluff and definetly not an attention seeker)
 - Working towards a better life. For all of us.
+
 ---
-
 ## Activity & Stats
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srirangamuc/srirangamuc/output/github-contribution-grid-snake-dark.svg" />
