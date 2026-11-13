@@ -1,7 +1,6 @@
 ## About Me
 
 - **Srirangam Umesh Chandra**
-- B.Tech in Computer Science @ IIIT Sri City — CGPA: 8.6/10
 - Geeky about AI and Stuff (Not a bluff and definetly not an attention seeker)
 - Working towards a better life. For all of us.
 
